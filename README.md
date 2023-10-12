@@ -12,7 +12,7 @@ Luckily one of the great benefits of the Python language is that it has a very a
 
 ## Pandas
 
-![pandas logo](pandas.png)
+![pandas logo](https://curriculum-content.s3.amazonaws.com/data-science/images/pandas.png)
 
 The pandas library will likely be your most-used library over the course of this program. It is a flexible, powerful data analysis library that is especially well-suited to handling tabular data (meaning data that is represented as rows and columns). The name is reminiscent of the term "panel data" as well as "Python data analysis".
 
